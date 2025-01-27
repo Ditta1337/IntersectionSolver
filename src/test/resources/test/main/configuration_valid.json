@@ -1,0 +1,8 @@
+{
+  "numberOfLanes": 2,
+  "greenLightDuration": 10,
+  "greenLightExtension": 5,
+  "turnLanesPercentage": 0.6,
+  "addVehicleCommandString": "addVehicle",
+  "simulationStepCommandString": "step"
+}

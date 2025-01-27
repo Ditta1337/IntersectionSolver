@@ -1,0 +1,13 @@
+{
+  "commands": [
+    {
+      "task": "addVehicle",
+      "vehicleId": "2",
+      "startRoad": "NORTH",
+      "endRoad": "SOUTH"
+    },
+    {
+      "task": "step"
+    }
+  ]
+}
